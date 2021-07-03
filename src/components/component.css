@@ -1,0 +1,33 @@
+.collapse {
+  cursor: pointer;
+}
+#hiden {
+  color: red;
+  display: none;
+}
+body {
+  caret-color: transparent;
+}
+input {
+  caret-color: black;
+}
+.mt5 {
+  margin-top: 25px;
+}
+.flex {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-auto-rows: 1fr;
+  row-gap: 10px;
+  justify-content: space-around;
+}
+.searchmatch {
+  color: blue;
+  font-weight: bolder;
+}
+#search {
+  max-width: 80%;
+}
+.hide{
+  display: none;
+}
